@@ -1,0 +1,38 @@
+body{
+   background-color: blanchedalmond;
+}
+
+#header-nav{
+    border-radius: 0;
+    background-color:darkgray;
+    border:0;
+
+}
+#nav-list{
+    margin-top: 5px;
+}
+#nav-list li:hover{
+    background-color: beige;
+}
+#nav-list a{
+    color: blueviolet;
+    font-size: 1.5em;
+}
+
+div .row{
+    text-align: center;
+    font-size: 1.5em;
+    background-color: cadetblue;
+    color: black;
+    margin-top: 10px;
+}
+div.title{
+    font-size: 1.7em;
+}
+div#f2{
+    margin-top: 10px;
+}
+div#f3{
+    margin-top: 10px;
+}
+
